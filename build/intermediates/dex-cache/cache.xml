@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/benwong/.gradle/caches/modules-2/files-2.1/com.parse/parse-android/1.12.0/34ca297c889cd2023074946c7097d96b30b20891/parse-android-1.12.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="34ca297c889cd2023074946c7097d96b30b20891">
+        <dex dex="/Users/benwong/Downloads/twitterAndroid/ParseStarterProject/build/intermediates/pre-dexed/debug/parse-android-1.12.0-bd49d815112d5510b214f48e5d4307c80992b6a7.jar" />
+    </item>
+    <item
+        jar="/Users/benwong/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.1/support-annotations-22.2.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="/Users/benwong/Downloads/twitterAndroid/ParseStarterProject/build/intermediates/pre-dexed/debug/support-annotations-22.2.1-4ae1938dc8655c09702594df2d4744b1a6be0f20.jar" />
+    </item>
+    <item
+        jar="/Users/benwong/Downloads/twitterAndroid/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/libs/internal_impl-22.2.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="/Users/benwong/Downloads/twitterAndroid/ParseStarterProject/build/intermediates/pre-dexed/debug/internal_impl-22.2.1-024c687c72fc58ad8cd5b89f82911676b98a7429.jar" />
+    </item>
+    <item
+        jar="/Users/benwong/Downloads/twitterAndroid/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="/Users/benwong/Downloads/twitterAndroid/ParseStarterProject/build/intermediates/pre-dexed/debug/classes-676a8ab8254ae52ac7e55bb294e7792b270da297.jar" />
+    </item>
+    <item
+        jar="/Users/benwong/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.3.0/8a62fd16fcc1c06f284fc98e6cbded2a5af1dd4c/bolts-tasks-1.3.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8a62fd16fcc1c06f284fc98e6cbded2a5af1dd4c">
+        <dex dex="/Users/benwong/Downloads/twitterAndroid/ParseStarterProject/build/intermediates/pre-dexed/debug/bolts-tasks-1.3.0-caa187756955b9fdc53ec1cf5d2d882efaab6385.jar" />
+    </item>
+    <item
+        jar="/Users/benwong/Downloads/twitterAndroid/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/design/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1821601ddbec5ff125653097812823388700af74">
+        <dex dex="/Users/benwong/Downloads/twitterAndroid/ParseStarterProject/build/intermediates/pre-dexed/debug/classes-a46d67178dce0f2ef3410c247691438cc01ad2e7.jar" />
+    </item>
+    <item
+        jar="/Users/benwong/Downloads/twitterAndroid/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="/Users/benwong/Downloads/twitterAndroid/ParseStarterProject/build/intermediates/pre-dexed/debug/classes-56a0892ccf3958e70f20e7c23cbcb67e7f9333b4.jar" />
+    </item>
+
+</items>

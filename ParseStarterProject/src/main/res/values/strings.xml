@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright (c) 2015-present, Parse, LLC.
+  ~ All rights reserved.
+  ~
+  ~ This source code is licensed under the BSD-style license found in the
+  ~ LICENSE file in the root directory of this source tree. An additional grant
+  ~ of patent rights can be found in the PATENTS file in the same directory.
+  -->
+<resources>
+    <string name="parse_app_id">kIUcTJrryhvWgYw4RaTG8ENNKbLsqjFMsEUa86Rq</string>
+    <string name="parse_client_key">SD9eHADdbveHpCWlYjsCragILVsLJtDqO5BhgxhH</string>
+
+    <string name="app_name">Twitter</string>
+
+    <string name="hello_world">Hello World!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_user_list">User List</string>
+    <string name="title_activity_view_feed">Your Feed</string>
+</resources>
